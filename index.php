@@ -36,9 +36,6 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto">
-        <li class="nav-item"><a class="nav-link" href="#historia">Historia</a></li>
-        <li class="nav-item"><a class="nav-link" href="#tipos">Tipos</a></li>
-        <li class="nav-item"><a class="nav-link" href="#componentes">Componentes</a></li>
         <li class="nav-item"><a class="nav-link" href="#noticias">Noticias</a></li>
         <li class="nav-item"><a class="nav-link" href="#comentarios">Comentarios</a></li>
         <li class="nav-item"><a class="nav-link" href="#contacto">Contacto</a></li>
@@ -50,92 +47,11 @@
 <!-- 🖼️ HERO -->
 <header class="bg-light p-5 mb-4 text-center">
   <div class="container">
-    <h1 class="display-5 fw-bold text-success">Historia de las Computadoras</h1>
-    <p class="lead text-muted">Explora la evolución de la tecnología computacional.</p>
-    <a href="#historia" class="btn btn-success btn-lg">Comenzar</a>
+    <h1 class="display-5 fw-bold text-success">Blog Tecnológico NextLoad</h1>
+    <p class="lead text-muted">Historias, análisis y novedades del mundo de la computación.</p>
+    <a href="#noticias" class="btn btn-success btn-lg">Ver últimas noticias</a>
   </div>
 </header>
-
-<!-- 🕰️ HISTORIA -->
-<section id="historia" class="container mb-5">
-  <h2 class="text-success mb-4 fw-bold text-center">Historia</h2>
-  <div class="row">
-    <div class="col-lg-4 mb-3">
-      <div class="card shadow-sm">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Two_women_operating_ENIAC_%28full_resolution%29.jpg/1280px-Two_women_operating_ENIAC_%28full_resolution%29.jpg" class="card-img-top" alt="ENIAC">
-        <div class="card-body">
-          <h5 class="card-title">1940s - ENIAC</h5>
-          <p class="card-text">Primera computadora electrónica de propósito general.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 mb-3">
-      <div class="card shadow-sm">
-        <img src="https://www.lighterra.com/articles/historyofcomputers/commodorepetlarge.jpg" class="card-img-top" alt="PC">
-        <div class="card-body">
-          <h5 class="card-title">1970s - PC</h5>
-          <p class="card-text">Nacimiento de las computadoras personales.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 mb-3">
-      <div class="card shadow-sm">
-        <img src="https://tecscience.tec.mx/es/wp-content/uploads/sites/8/2024/05/historia-del-internet.jpg" class="card-img-top" alt="Internet">
-        <div class="card-body">
-          <h5 class="card-title">2000s - Internet</h5>
-          <p class="card-text">Era de la conectividad global.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- 💻 TIPOS -->
-<section id="tipos" class="container mb-5">
-  <h2 class="text-success mb-4 fw-bold text-center">Tipos de Computadoras</h2>
-  <div class="card-group shadow-sm">
-    <div class="card">
-      <img src="https://www.generacionuniversitaria.com.mx/wp-content/uploads/2023/04/Huawei-MateStation-S-1024x640.webp" class="card-img-top" alt="PC">
-      <div class="card-body text-center">
-        <h5 class="card-title">Desktop</h5>
-        <p class="card-text">Computadoras de escritorio para uso profesional.</p>
-      </div>
-    </div>
-    <div class="card">
-      <img src="https://cdn.aarp.net/content/dam/aarpe/es/home/hogar-familia/tecnologia/info-2020/guia-para-comprar-computadoras-portatiles/_jcr_content/root/container_main/container_body_main/container_body2/container_body_cf/body_two_cf_one/par10/articlecontentfragme/cfimage.coreimg.50.932.jpeg/content/dam/aarp/home-and-family/personal-technology/2020/08/1140-webcam-call-esp.jpg" class="card-img-top" alt="Laptop">
-      <div class="card-body text-center">
-        <h5 class="card-title">Laptop</h5>
-        <p class="card-text">Computadoras portátiles para movilidad.</p>
-      </div>
-    </div>
-    <div class="card">
-      <img src="https://cink.es/wp-content/uploads/2024/02/Diferencia-Smartphone-y-Android-jpg.webp" class="card-img-top" alt="Móvil">
-      <div class="card-body text-center">
-        <h5 class="card-title">Móvil</h5>
-        <p class="card-text">Dispositivos inteligentes de bolsillo.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ⚙️ COMPONENTES -->
-<section id="componentes" class="container mb-5">
-  <h2 class="text-success mb-4 fw-bold text-center">Componentes</h2>
-  <div class="row">
-    <div class="col-md-6">
-      <ul class="list-group shadow-sm">
-        <li class="list-group-item"><i class="bi bi-cpu me-2"></i> Procesador (CPU)</li>
-        <li class="list-group-item"><i class="bi bi-memory me-2"></i> Memoria RAM</li>
-      </ul>
-    </div>
-    <div class="col-md-6">
-      <ul class="list-group shadow-sm">
-        <li class="list-group-item"><i class="bi bi-hdd me-2"></i> Disco Duro</li>
-        <li class="list-group-item"><i class="bi bi-card-image me-2"></i> Tarjeta Gráfica</li>
-      </ul>
-    </div>
-  </div>
-</section>
 
 <!-- 📰 NOTICIAS -->
 <section id="noticias" class="container mb-5">
